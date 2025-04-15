@@ -18,5 +18,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="glyph_settings_notifs_sub_essential_title">இன்றியமையா அறிவிப்புகள்</string>
-    <string name="glyph_settings_notifs_sub_essential_summary">இன்றியமையா அறிவிப்புகள் படிக்கப்படும் வரையிலோ, தள்ளிவிடும் வரையிலோ இன்றியமையா எழுத்துமுறை காட்டப்படும்</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">இன்றியமையா அறிவிப்புகள் படிக்கப்படும் வரையிலோ, தள்ளிவிடும் வரையிலோ, இன்றியமையா எழுத்துமுறை காட்டப்படும்</string>
 </resources>
