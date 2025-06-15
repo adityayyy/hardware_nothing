@@ -40,6 +40,8 @@
     <string name="glyph_settings_notifs_sub_title">允許的應用程式</string>
     <string name="glyph_settings_notifs_sub_toggle_title">啟用通知動畫</string>
     <string name="glyph_settings_notifs_sub_animations_title">圖案</string>
+    <string name="glyph_settings_notifs_sub_essential_title">Essential 通知</string>
+    <string name="glyph_settings_notifs_sub_essential_summary">Essential Glyph 會保持顯示直到 Essential 通知前被讀取或忽略</string>
     <string name="glyph_settings_volume_title">音量</string>
     <string name="glyph_settings_volume_level_toggle_title">音量指示器</string>
     <string name="glyph_settings_volume_level_toggle_summary">調整時顯示音量</string>
