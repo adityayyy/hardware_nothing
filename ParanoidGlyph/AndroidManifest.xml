@@ -132,7 +132,7 @@
                 android:value="com.android.settings.category.ia.homepage" />
             <meta-data
                 android:name="com.android.settings.icon"
-                android:resource="@drawable/ic_glyphs_logo" />
+                android:resource="@drawable/ic_glyphs_logo_expressive" />
             <meta-data
                 android:name="com.android.settings.summary"
                 android:value="@string/glyph_settings_summary" />
